@@ -96,3 +96,7 @@ object cuero
 		return false
 	}
 }
+object a
+{
+	
+}
